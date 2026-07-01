@@ -131,19 +131,22 @@ http://127.0.0.1:8000/docs
 
 ### Home Page
 
-(Add screenshot)
+<img width="1436" height="692" alt="image" src="https://github.com/user-attachments/assets/7d6c422d-7faf-46a6-bd55-6b21b2728a90" />
 
 ### Menu Page
 
-(Add screenshot)
+<img width="1367" height="692" alt="image" src="https://github.com/user-attachments/assets/b3baaff3-0d41-4358-8d19-5324626a2b4c" />
+<img width="1437" height="692" alt="image" src="https://github.com/user-attachments/assets/1a347954-9b0d-4131-8522-a10b8a8c66b3" />
 
 ### Reservation Page
 
-(Add screenshot)
+<img width="1392" height="692" alt="image" src="https://github.com/user-attachments/assets/d2aff5a1-ef3b-40f0-bf84-5d13dd14bc97" />
 
-### Swagger API
 
-(Add screenshot)
+### About Page
+
+<img width="1332" height="686" alt="image" src="https://github.com/user-attachments/assets/f6ea2478-b73a-41b8-ad2c-400f2d1692df" />
+
 
 ---
 
